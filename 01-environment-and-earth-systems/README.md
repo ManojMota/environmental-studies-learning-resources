@@ -7,6 +7,9 @@ Introduces the environment and Earth systems, human pressures, resource use, env
 - [01-01-understanding-environment-and-earth-systems.pptx](./01-01-understanding-environment-and-earth-systems.pptx)
 - [01-02-population-urbanization-industrialization-and-resource-use.pptx](./01-02-population-urbanization-industrialization-and-resource-use.pptx)
 - [01-03-resource-limits-environmental-stress-and-sustainability.pptx](./01-03-resource-limits-environmental-stress-and-sustainability.pptx)
+- [01-01-understanding-environment-and-earth-systems.pdf](./01-01-understanding-environment-and-earth-systems.pdf)
+- [01-02-population-urbanization-industrialization-and-resource-use.pdf](./01-02-population-urbanization-industrialization-and-resource-use.pdf)
+- [01-03-resource-limits-environmental-stress-and-sustainability.pdf](./01-03-resource-limits-environmental-stress-and-sustainability.pdf)
 
 ## Learning focus
 
